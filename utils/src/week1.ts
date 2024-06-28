@@ -1,4 +1,3 @@
-import { toHEX } from '@mysten/sui.js/utils';
 import { Ed25519Keypair } from '@mysten/sui.js/keypairs/ed25519';
 import wallet from './wallet.json';
 
